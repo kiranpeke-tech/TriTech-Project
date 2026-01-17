@@ -44,9 +44,9 @@ The MVP shows how the system would function in real-world use.
 
 Technology Stack (Planned)
 - Google Vision API (Image Analysis)
-- Node.js (Backend – future)
-- Web Interface (Frontend – future)
+- Node.js (Backend future)
+- Web Interface (Frontend future)
 - Google Cloud Platform
 
-Project Status
+Project Status:
 Prototype / Demo-based MVP
